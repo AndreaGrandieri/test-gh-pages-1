@@ -53,7 +53,7 @@ _Niente da segnalare._
 
 Questa è la visualizzazione del modulo in situazione di funzionamento corretto:
 
-![resources/MMM-AirQuality_correct_workflow.PNG](https://github.com/AndreaGrandieri/test-gh-pages-1/blob/main/src/modules/MMM-AirQuality/resources/MMM-AirQuality_correct_workflow.PNG)
+![resources/MMM-AirQuality_correct_workflow.PNG](https://raw.githubusercontent.com/AndreaGrandieri/test-gh-pages-1/main/src/modules/MMM-AirQuality/resources/MMM-AirQuality_correct_workflow.PNG)
 
 Se il modulo rimane sulla seguente schermata, probabilmente la zona da analizzare
 specificata __non__ è supportata o è presente un'altra forma di
