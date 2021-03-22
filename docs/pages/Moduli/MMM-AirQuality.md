@@ -59,4 +59,4 @@ Se il modulo rimane sulla seguente schermata, probabilmente la zona da analizzar
 specificata __non__ è supportata o è presente un'altra forma di
 errore nelle proprietà specificate nel file `config.js`:
 
-![loading_air_quality_index_hang.PNG](https://andreagrandieri.github.io/test-gh-pages-1/assets/MMM-AirQuality/loading_air_quality_index_hang.PNG)
+![loading_air_quality_index_hang.PNG](../../assets/MMM-AirQuality/loading_air_quality_index_hang.PNG)
