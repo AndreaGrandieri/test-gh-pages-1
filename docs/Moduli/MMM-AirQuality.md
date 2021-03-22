@@ -53,10 +53,10 @@ _Niente da segnalare._
 
 Questa è la visualizzazione del modulo in situazione di funzionamento corretto:
 
-![resources/MMM-AirQuality_correct_workflow.PNG](https://raw.githubusercontent.com/AndreaGrandieri/test-gh-pages-1/main/src/modules/MMM-AirQuality/resources/MMM-AirQuality_correct_workflow.PNG)
+![MMM-AirQuality_correct_workflow.PNG](/assets/MMM-AirQuality/MMM-AirQuality_correct_workflow.PNG)
 
 Se il modulo rimane sulla seguente schermata, probabilmente la zona da analizzare
 specificata __non__ è supportata o è presente un'altra forma di
 errore nelle proprietà specificate nel file `config.js`:
 
-![resources/loading_air_quality_index_hang.PNG](https://github.com/AndreaGrandieri/test-gh-pages-1/blob/main/src/modules/MMM-AirQuality/resources/loading_air_quality_index_hang.PNG)
+![loading_air_quality_index_hang.PNG](/assets/MMM-AirQuality/loading_air_quality_index_hang.PNG)
