@@ -1,3 +1,7 @@
+---
+layout: modules
+---
+
 # MMM-AirQuality
 
 ## tl;dr
