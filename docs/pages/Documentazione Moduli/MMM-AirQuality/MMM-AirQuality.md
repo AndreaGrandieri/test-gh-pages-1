@@ -1,7 +1,3 @@
----
-layout: MMM-AirQuality
----
-
 # MMM-AirQuality
 
 ## tl;dr
